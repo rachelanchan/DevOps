@@ -1,2 +1,2 @@
-# lab1
- DevOps Assignment Lab 1
+# DevOps
+ DevOps Assignment Lab 2
