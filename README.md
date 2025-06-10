@@ -1,4 +1,4 @@
-## DevOps Mini Project
+## DevOps Mini Project | 2024
 
 ### Lab 1
 Consume any publically available API ( e.g. https://github.com/public-apis/public-apis or any other publically available dataset/api) and display the result.
