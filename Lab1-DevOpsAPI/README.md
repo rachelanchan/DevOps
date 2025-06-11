@@ -1,4 +1,4 @@
-## Lab 1: API Consumption
+### Lab 1: API Consumption
 
 The Python script (`api_demo_lab1.py`) is designed to fetch and display information about a country using a REST API.
 
