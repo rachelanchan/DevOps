@@ -1,0 +1,19 @@
+# Ignore Jenkins workspace and build files
+**/.jenkins
+**/workspace/
+**/build/
+**/logs/
+
+# Ignore Jenkins specific configuration files
+**/*.xml
+**/*.log
+
+# Ignore files related to Jenkins builds (e.g., temp files)
+**/*.sh
+**/*.bat
+**/*.cmd
+**/*.zip
+
+# Ignore other potential sensitive files (e.g., system-specific files)
+**/node_modules/
+**/.env
